@@ -1,0 +1,11 @@
+Top Sports Events:
+Description:
+Top Sports Events is best source and accurate information about best sports events in the history, here you can find the best events especially for boxing, cricket, football and Tennis. 
+
+Features:
+•	Best & accurate information about Top sports events. 
+(Cricket, Hockey, Football & Tennis).
+•	Pin to start item detail page option.
+•	Sharing any Info about Top Sport Events.
+•	Searching feature
+•	Semantic and snapping modes. 

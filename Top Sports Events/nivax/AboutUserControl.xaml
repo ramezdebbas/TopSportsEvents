@@ -1,0 +1,24 @@
+﻿<UserControl
+    x:Class="nivax.AboutUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:nivax"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+    
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Developed By" FontFamily="Segoe UI" FontSize="18" />
+            <TextBlock Text="Ramez Debbas" FontFamily="Comic Sans MS" FontSize="24" FontStyle="Italic" FontWeight="Bold" ToolTipService.ToolTip="Naveed Shahid" Foreground="#FFFB7200" />
+            <TextBlock Text="Contact:" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="18" />
+            <TextBlock Text="514-9988827" FontFamily="Comic Sans MS" FontWeight="SemiLight" FontSize="22" Foreground="#FFBB0492" />
+            <TextBlock Text="debbas@outlook.com" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="22" Foreground="#FFAC019C" />
+            <TextBlock Text="www.thatslink.com" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="22" Foreground="#FFAC019C" />
+        </StackPanel>
+
+
+    </Grid>
+</UserControl>
